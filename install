@@ -1,0 +1,2 @@
+echo "Installing..."
+mv ~/.dotfiles/.bashrc ~/.bashrc
